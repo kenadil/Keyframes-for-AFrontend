@@ -8,7 +8,7 @@ const arrayOfText = [
   "That I need to ask",
   "Before I'm alone",
   "How it feels to rest",
-  "On your precious lips",
+  "On your patient lips",
   "To eternal bliss",
   "I'm so glad to know",
   "...",
